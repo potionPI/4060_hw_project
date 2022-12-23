@@ -1,2 +1,3 @@
-# 4060_hw_project
-ECBM E4060 Project
+# ECBM E4060 Project
+
+This is the GitHub submission for the ECBM E4060 class project
