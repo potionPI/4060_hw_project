@@ -11,6 +11,7 @@ These files are Kaggle notebooks in order. The code is heavily pieced together f
 - nb1-1-multiome-to-sparse-matrices.ipynb ) This is the jupyter notebook run on Kaggle which converts a dataset to sparse matrix format
 - nb2-multiome.ipynb ) This is the jupyter notebook which creates and runs the model for the multiome data
 - nb3-citeseq.ipynb ) This is the jupyter notebook which creates and runs the model for the CITEseq data
+- All the files with the prefix 'Extra_files' ) These are extra jupyter notebooks which were run to test the results of different feature counts. "m256" stands for the multiome data being reduced to 256 features and "c128" represents the CITEseq data being reduced to 128 features.
 
 This notebook is not run on Kaggle, but rather Google Colab:
 - Significance_checks.ipynb ) This jupyter notebook performs some statistical tests on data concerning feature reduction, model performance, and explained variance
