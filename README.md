@@ -1,6 +1,8 @@
 # ECBM E4060 Project
 
-This is the GitHub submission for the ECBM E4060 class project
+This is the GitHub submission for the ECBM E4060 class project.
+
+Kaggle project: https://www.kaggle.com/competitions/open-problems-multimodal/overview
 
 ## Explanation of the files:
 
